@@ -136,5 +136,5 @@ struct eventpoll {
 * 总结：创建了一个eventpoll结构对象，被系统保存起来。rbr成员被初始化成指向一颗红黑树的根【有了一个红黑树】
   rdlist成员被初始化成指向一个双向链表的根【有了双向链表】阻塞等待的时长
 
-![image-20220726182720490](/Users/kane/Library/Application Support/typora-user-images/image-20220726182720490.png)
+<img width="1059" alt="image" src="https://user-images.githubusercontent.com/62796730/180988307-79c198ea-b669-4d68-a745-bba5a68ac279.png">
 
