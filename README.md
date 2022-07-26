@@ -1,5 +1,5 @@
 # SimplewebServer
-simple chat system by socket implemented by C++
+simple dialogue system implemented by C++
 # C++ Linux socket网络通信实现
 
 * 服务端：服务器端先初始化socket，然后与端口绑定，对端口进行监听，调用accept阻塞，等待客户端连接。
