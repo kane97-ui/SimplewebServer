@@ -137,4 +137,5 @@ struct eventpoll {
   rdlist成员被初始化成指向一个双向链表的根【有了双向链表】阻塞等待的时长
 
 <img width="1059" alt="image" src="https://user-images.githubusercontent.com/62796730/180988307-79c198ea-b669-4d68-a745-bba5a68ac279.png">
-
+### select+线程池
+线程池的实现参考 
